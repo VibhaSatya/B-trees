@@ -1,5 +1,5 @@
 # B-trees
-Implementation of B-trees using given input file
+Implementation of B-trees using given input file.
 Language used: c
 
 # Implementation
